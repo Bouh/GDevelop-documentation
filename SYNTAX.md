@@ -4,6 +4,8 @@ GDevelop's wiki is based on the framework [MkDocs](https://www.mkdocs.org/) that
 
 Note:
 
+sdf
+
 - MkDocs uses the [python markdown](https://python-markdown.github.io/) syntax that is slightly different from the markdown one. For instance it handles lists differently (see below).
 - Displaying images comes with features brought by Material for MkDocs. Check [the reference here](https://squidfunk.github.io/mkdocs-material/reference/images/).
 
